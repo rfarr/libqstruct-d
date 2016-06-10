@@ -1,0 +1,3 @@
+[submodule "submodules/libqstruct"]
+	path = submodules/libqstruct
+	url = https://github.com/rfarr/libqstruct
